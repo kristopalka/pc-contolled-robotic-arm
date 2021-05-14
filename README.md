@@ -5,7 +5,7 @@ DIY robotic arm, based on Arduino, controllable via dedicated app
 ## Overview
 To build this arm, I used components found in my garage ;)
 It is based on Arduino board programmed in C++. To control it, I wrote the .NET Framework desktop app.
-You can see simple demonstration on **YouTube**: https://img.youtube.com/vi/hEpXCAM6VjY/0.jpg)](https://youtu.be/hEpXCAM6VjY
+You can see simple demonstration on **YouTube**: https://youtu.be/hEpXCAM6VjY
 
 [![YouTube](https://img.youtube.com/vi/hEpXCAM6VjY/0.jpg)](https://youtu.be/hEpXCAM6VjY)
 
