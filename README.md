@@ -1,5 +1,5 @@
 
-# DIY robotic arm
+# DIY PC-contolled robotic arm
 DIY robotic arm, based on Arduino, controllable via dedicated app
 
 ## Overview
